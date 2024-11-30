@@ -1,0 +1,10 @@
+.box {
+  box-sizing: border-box;
+  height: 100px;
+  width: 100px;
+  background-color: bisque;
+  padding: 10px;
+  border: 1px solid darkblue;
+  border-radius: 5px;
+  margin: 10px;
+}
